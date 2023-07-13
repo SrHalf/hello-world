@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Saporra é o conteúdo de um tutorial, que eu tô usando pra revisar os comandos Git._.
 
 That's a second change in this file.
+
+That's a third change in this file.
